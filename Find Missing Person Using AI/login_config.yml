@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    anurag:
+      email: anuragsingh98@gmail.com
+      name: Anurag Singh
+      city: Gorakhpur
+      area: Gida
+      role: Admin
+      password: '$2b$12$ZuYS3NXO.sRoc/WT.daC5.5KFpoSG00RDdExqsSA0O3vrf9yf1BPm' # abc
+cookie:
+  expiry_days: 1
+  key: random_signature_key_extended_32bytes
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - anuragsingh98@gmail.com
