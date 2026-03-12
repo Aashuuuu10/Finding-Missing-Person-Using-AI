@@ -10,7 +10,7 @@ from pages.helper import db_queries
 from pages.helper.ui_components import load_css, stat_card, page_header, sidebar_profile, feature_card, section_header, timeline_event
 
 st.set_page_config(
-    page_title="Missing Persons Tracker",
+    page_title="Missing Persons Tracker AI",
     page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded",
